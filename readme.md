@@ -24,9 +24,9 @@
    - [13. Top 5 Favorite Fruits](#13-top-5-most-common-favorite-fruits)
    - [14. Country With Most Users](#14-country-with-the-highest-number-of-registered-users)
    - [15. Male vs Female Count](#15-total-number-of-males-and-females)
-   - [16. \$lookup — Joining Collections](#16-lookup-operator---joining-collections)
-4. [Pipeline Stages — Quick Reference](#-pipeline-stages--quick-reference)
-5. [Operators — Quick Reference](#-operators--quick-reference)
+   - [16. \$lookup Joining Collections](#16-lookup-operator---joining-collections)
+4. [Pipeline Stages Quick Reference](#-pipeline-stages--quick-reference)
+5. [Operators Quick Reference](#-operators--quick-reference)
 6. [Tips & Best Practices](#-tips--best-practices)
 
 ---
