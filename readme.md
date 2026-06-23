@@ -1,6 +1,6 @@
-# 🍃 MongoDB Aggregation Pipeline — Practical Guide
+# 🍃 MongoDB Aggregation Pipeline
 
-> **Prerequisites:** You should already know MongoDB basics — connecting via Atlas, CRUD operations, and how to use the MongoDB shell or Compass. This guide focuses entirely on the **Aggregation Framework**.
+> **Prerequisites:** You should already know MongoDB basics connecting via Atlas, CRUD operations, and how to use the MongoDB shell or Compass. This guide focuses entirely on the **Aggregation Framework**.
 
 ---
 
