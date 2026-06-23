@@ -33,7 +33,7 @@
 
 ## 🔍 What is an Aggregation Pipeline?
 
-An **aggregation pipeline** is a sequence of stages that process documents from a collection. Each stage transforms the documents and passes the result to the next stage — like an assembly line.
+An **aggregation pipeline** is a sequence of stages that process documents from a collection. Each stage transforms the documents and passes the result to the next stage like an assembly line.
 
 ```
 Collection → [$stage1] → [$stage2] → [$stage3] → Result
